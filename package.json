@@ -1,0 +1,9 @@
+{
+  "name": "redis-cache-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "dotenv": "latest",
+    "express": "latest",
+    "redis": "latest"
+  }
+}
